@@ -91,7 +91,7 @@ jupyter lab notebooks/01_pbmc_analysis.ipynb
 .
 ├── README.md
 ├── environment.yml
-├── notebooks/01_pbmc_analysis.ipynb   # the full analysis
+├── notebook/01_pbmc_analysis.ipynb   # the full analysis
 ├── figures/                           # exported plots
 └── results/                           # marker gene tables
 ```
